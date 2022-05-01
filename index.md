@@ -1,7 +1,5 @@
 # IP Port
 
-<p style="color:red;">Test</p>
-
 ## Simply taking a look and rolling autogen loops
 
 ### hostname

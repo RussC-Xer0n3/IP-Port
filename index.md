@@ -51,7 +51,7 @@ I got quite close with this one however there are a few caveates which have to b
 
 - Formatting
 - Quantity of nested loops permitted in Python
-- Trying to speed up the generation process for 'o' notation
+- Trying to speed up the generation process for 'o(log)n' notation
 
 ### Some success
 ```
